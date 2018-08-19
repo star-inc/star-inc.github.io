@@ -10,7 +10,7 @@
 
 及example資料夾也會提供範例程序
 
-少數情形下，可能得連線到我們的[開發者專區](http://developer.starinc.xyz/)尋求相關說明
+少數情形下，可能得連線到我們的[開發者專區](https://developer.starinc.xyz/)尋求相關說明
 
 ### 關於Issues
 
@@ -22,4 +22,5 @@
 
 [點我](https://github.com/star-inc/)進入開放原始碼專區
 
-##### Copyright© 2018 Star Inc. All Rights Reserved.
+----
+Copyright© 2018 [Star Inc.](https://starinc.xyz) All Rights Reserved.

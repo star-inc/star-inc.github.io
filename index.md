@@ -1,6 +1,6 @@
 ##  Welcome
 
-我們採用[GitHub](https//github.com/)託管我們的開放原始碼程式
+我們採用[GitHub](https://github.com/)託管我們的開放原始碼程式
 
 歡迎各位多多利用^^
 

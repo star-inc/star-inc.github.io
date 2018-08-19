@@ -18,4 +18,8 @@
 
 這裡是開放原始碼的社區，需要大家的維護；）
 
+## 準備好了嗎？
+
+[點我](https://github.com/star-inc/)進入開放原始碼專區
+
 ##### Copyright© 2018 Star Inc. All Rights Reserved.

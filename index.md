@@ -1,6 +1,6 @@
 ##  Welcome
 
-我們採用[GitHub](https://github.com/)託管我們的開放原始碼程式
+我們採用[GitHub](https://github.com/)託管我們的開放原始碼程式/公開代碼
 
 歡迎各位多多利用^^
 
@@ -16,7 +16,7 @@
 
 及examples資料夾也會提供範例程序
 
-如果您尋求幫助的是線上服務的開發文件，請前往[線上服務開發者中心](https://developer.starinc.xyz/)尋求相關說明
+如果您尋找的是線上服務的開發文件，請前往[線上服務開發者中心](https://developer.starinc.xyz/)尋求相關說明
 
 ### 關於Issues
 

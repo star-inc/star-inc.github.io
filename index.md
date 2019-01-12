@@ -24,9 +24,19 @@
 
 這裡是開放原始碼的社區，需要大家的維護；）
 
+### 關於產品狀態
+
+狀態可分為：
+
++ Released 已發行版本
++ Developing 不穩定/無法正常使用
++ EOL 已結束產品支持
+
+狀態皆會寫在專案名稱下的"敘述"欄位(Description)
+
 ## 準備好了嗎？
 
 [點我](https://github.com/star-inc/)進入開放原始碼專區
 
 ----
-Copyright© 2018 [Star Inc.](https://starinc.xyz) All Rights Reserved.
+Copyright© 2019 [Star Inc.](https://starinc.xyz) All Rights Reserved.

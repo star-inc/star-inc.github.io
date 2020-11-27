@@ -169,6 +169,11 @@ a {
 }
 
 @media (max-width: 62em) {
+  .last-block {
+    margin: auto;
+    font-size: 15px;
+  }
+  
   .custom-menu {
     display: block;
   }
